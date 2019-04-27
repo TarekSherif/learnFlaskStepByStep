@@ -6,6 +6,16 @@
 
 **2.Routing**
 
+**3.templates engine jinja**
+
+    - template inheritance (layout)
+    - Block
+    - static folder
+
+**4.Pass Data To templates**
+
+**5.url_for**
+
 ---
 
 ## Dependency used
@@ -28,6 +38,12 @@ python fileName.py
 in browser type
 http://127.0.0.1:5000/
 
-## Thanks [Mr.Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+---
+
+## [code snippets ](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog/snippets)
+
+---
+
+## Thanks [Mr.Corey Schafer](https://www.patreon.com/coreyms)
 
 ---
