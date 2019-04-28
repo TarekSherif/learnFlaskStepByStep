@@ -16,11 +16,23 @@
 
 **5.url_for**
 
----
+**6.Forms and User Input wtf**
+
+- wtforms (StringField, PasswordField, SubmitField, BooleanField)
+- validators ( DataRequired, Length, Email, Equal_to)
+-
+
+**7.methods**
+-GET-POST-PULL_DELETE
+
+**8.flash**
+
+**9.redirect**
 
 ## Dependency used
 
 - pip install flask
+- pip install flask-wtf
 
 ---
 
